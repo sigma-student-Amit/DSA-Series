@@ -1,4 +1,4 @@
-public class GCD {
+public class PowerofN {
 
     public static int power(int x, int n)
     {
